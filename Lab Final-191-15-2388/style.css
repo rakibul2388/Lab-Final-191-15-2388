@@ -1,0 +1,28 @@
+/* nav-image */
+.navabar_image {
+    height: 60px;
+    width: 60px;
+  }
+  
+  .nav-link {
+    margin: 15px 0;
+    padding: 4px 15px;
+    transition: 0.4s;
+    border-radius: 4px;
+    font-size: 17px;
+  }
+  
+  .nav-link:hover {
+    background-color: rgba(103, 156, 17, 0.63);
+    /* color: orange !important; */
+  }
+  .toggle_right {
+    float: right;
+  }
+
+  .images-size{ 
+      height:400px;
+    width:400px;
+  
+}
+     
